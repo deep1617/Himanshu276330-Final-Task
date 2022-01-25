@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: "Montserrat", sans-serif;
+}
+body {
+    background: rgb(211, 210, 210);
+    padding: 0 16px;
+}
+
+h3 {
+    margin: 10px 0px;
+}
+
+.about {
+    padding: 20px;
+}
+
+.house-logo{
+    margin: 10px 0;
+    text-align: center;
+}
+
+.house-logo img{
+    width: 300px;
+    border-radius: 50%;
+}
+  
+header {
+    background-color: #2e2c28;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+#logo {
+    width: 150px;
+}
+
+.hh {
+    display: inline;
+    margin-top: 10px;
+    position: absolute;
+    left: 200px;
+}
+
+.house {
+    font-size:20px;
+    margin: 20px 35px;
+    padding: 5px;
+    color: rgb(197, 149, 18);
+    border-radius: 10px;
+    background-color: rgb(17, 17, 17);
+    text-decoration: none;
+}
+
+.main {
+    padding: 20px;
+}
+
+#main-char {
+    margin: 10px 0;
+}
+
+.card {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 345px;
+    height: 460px;
+    margin: 16px;
+    float: left;
+    text-align: center;
+}
+
+.card img {
+    width: 300px;
+    height: 350px;
+    margin-top: -5px;
+    border-radius: 20px;
+}
